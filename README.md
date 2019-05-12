@@ -2,8 +2,8 @@
 
 A command line interface written in Ruby with the Thor toolkit. It allows for api interactions with the "search", "game" and "dlcs" resources documented with [GiantBomb.com](https://www.giantbomb.com/api/). 
 
-## How do I...
-Basic outline of how to Run, Read and Change the contents of this repo.
+## How do I...
+A basic outline of how to Run, Read and Change the contents of this repo.
 
 # Run it
 - Get the files
